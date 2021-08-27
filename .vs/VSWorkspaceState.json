@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\router",
+    "\\src\\store",
+    "\\src\\store\\entities",
+    "\\src\\views"
+  ],
+  "SelectedNode": "\\src\\store\\entities\\role.ts",
+  "PreviewInSolutionExplorer": false
+}
